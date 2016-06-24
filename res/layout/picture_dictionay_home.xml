@@ -1,0 +1,40 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <TableRow>
+
+        <ImageButton
+            android:id="@+id/action"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/action" />
+
+        <ImageButton
+            android:id="@+id/food"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/food" />
+
+        <ImageButton
+            android:id="@+id/transport"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:src="@drawable/transport" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageButton
+            android:id="@+id/animal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/animal" />
+    </TableRow>
+
+</TableLayout>

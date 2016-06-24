@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Picture Dictionary</string>
+    <string name="action_settings">Settings</string>
+    <string name="label">This is a useful picture dictionary. It is developed by team 4. </string>
+    <string name="menu">WELCOME</string>
+    <string name="btnDic">Picture Dictionary</string>
+    <string name="btnQuiz">Quiz Game</string>
+    <string name="btnAbout">Development Information</string>
+    <string name="btnExit">Exit</string>
+    <string name="Home">PICTURE DICTIONARY</string>
+    <string name="title_activity_about">Development Information</string>
+    <string name="contents">A useful application for learning english by pictures and quiz game. Developed by team 4:</string>
+    <string name="title_activity_abouts">About</string>
+    <string name="title_activity_quiz_game">QuizGame</string>
+    
+   <string name="choices">Select Number of Choices</string>
+   <string name="correct">correct</string>
+
+   <string name="guesses">guesses</string>
+   <string name="incorrect_answer">Incorrect!</string>
+   <string name="more_category_title">More Categories Required</string>
+   <string name="more_categories_message">There are not enough Items in 
+      the selected Category. Please select more Category.</string>
+   <string name="of">of</string>
+   <string name="ok">OK</string>
+   <string name="question">Question</string>
+   <string name="quiz_title">Picture Dictionary Quiz</string>
+   <string name="categories">Select Category</string>
+   <string name="reset_quiz">Reset Quiz</string>    
+   <string-array name="CategoriesList">
+      <item>Actions</item>
+      <item>Foods</item>
+      <item>Transports</item>
+      <item>Animals</item>
+   </string-array>
+   <string-array name="guessesList">
+      <item>3</item>
+      <item>6</item>
+      <item>9</item>
+   </string-array>
+      <string name="mem1">Nguyễn Mạnh Nhứt</string>
+      <string name="mem2">Lê Trọng Tín</string>
+      <string name="mem3">Phan Thị Thanh Thảo</string>
+      <string name="mem4">Phạm Văn Tiệm</string>
+      <string name="mem5">Trần Lê Khánh Chi</string>
+
+</resources>

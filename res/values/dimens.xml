@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+	 <dimen name="title_size">25sp</dimen>
+     <dimen name="flag_width">227dp</dimen>
+     <dimen name="flag_height">227dp</dimen>
+     <dimen name="answer_size">40sp</dimen>
+     <dimen name="text_size">20sp</dimen>
+</resources>
